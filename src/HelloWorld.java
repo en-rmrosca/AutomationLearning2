@@ -19,12 +19,5 @@ public class HelloWorld {
             }
             System.out.println(i);
         }
-        while(true) {
-            System.out.println(i);
-            i++;
-            if (){
-                break;
-            }
-        }
     }
 }
