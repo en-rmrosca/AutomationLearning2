@@ -1,3 +1,6 @@
 # Project exclude paths
 /out/
-/.idea/
+.idea/
+
+#Any iml file ( for intellij )
+*.iml
