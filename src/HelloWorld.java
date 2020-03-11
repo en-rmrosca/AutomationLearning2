@@ -1,9 +1,7 @@
-import jdk.nashorn.internal.runtime.arrays.ArrayLikeIterator;
-import main.OOP.Laptop;
-import main.OOP.Macbook;
-
-import javax.crypto.Mac;
-import java.util.*;
+//import jdk.nashorn.internal.runtime.arrays.ArrayLikeIterator;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
 
 public class HelloWorld {
     public static void main(String[] args) {
