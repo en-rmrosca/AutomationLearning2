@@ -5,4 +5,5 @@ public class gitPractice {
     int s=2;
     int task1;
     int task2;
+    int task3;
 }
